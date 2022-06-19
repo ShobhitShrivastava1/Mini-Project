@@ -1,0 +1,1 @@
+https://repo.anaconda.com/pkgs/main/win-64/conda-4.12.0-py39haa95532_0.conda
